@@ -1,5 +1,4 @@
 {
-	"$schema": "https://json.schemastore.org/foundryvtt-system-manifest.json",
 	"id": "litm-wl",
 	"version": 1,
 	"license": "LICENSE",
