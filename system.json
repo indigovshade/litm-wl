@@ -1,16 +1,16 @@
 {
 	"$schema": "https://json.schemastore.org/foundryvtt-system-manifest.json",
-	"id": "litm",
-	"version": 29,
+	"id": "litm-wl",
+	"version": 1,
 	"license": "LICENSE",
-	"title": "Legend in the Mist Demo",
+	"title": "Legend in the Mist (testing)",
 	"description": "A <strong>Rustic Fantasy</strong> Game for Foundry Virtual Tabletop.",
 	"authors": [
 		{
-			"name": "Filip Ambrosius",
-			"discord": "aMediocreDad#2483",
-			"email": "hello@amediocre.dev",
-			"ko-fi": "amediocredad"
+			"name": "IS",
+			"discord": "",
+			"email": "",
+			"ko-fi": ""
 		}
 	],
 	"esmodules": [
@@ -112,9 +112,9 @@
 		]
 	},
 	"background": "systems/litm/assets/media/litm_splash.webp",
-	"url": "https://github.com/aMediocreDad/litm",
-	"bugs": "https://github.com/aMediocreDad/litm/issues?q=is:issue+is:open+sort:updated-desc",
-	"manifest": "https://raw.githubusercontent.com/aMediocreDad/litm/main/system.json",
-	"download": "https://github.com/aMediocreDad/litm/archive/refs/tags/v29.zip",
-	"readme": "https://github.com/aMediocreDad/litm/blob/main/README.md"
+	"url": "https://github.com/indigovshade/litm-wl",
+	"bugs": "https://github.com/indigovshade/litm-wl/issues?q=is:issue+is:open+sort:updated-desc",
+	"manifest": "https://raw.githubusercontent.com/indigovshade/litm-wl/main/system.json",
+	"download": "https://github.com/indigovshade/litm-wl/archive/refs/tags/v1.zip",
+	"readme": "https://github.com/indigovshade/litm-wl/blob/main/README.md"
 }
