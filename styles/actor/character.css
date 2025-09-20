@@ -5,8 +5,8 @@
 	border-radius: 0px;
 
 	&:not(.minimized) {
-		width: 15.625rem !important;
-		height: 21.875rem !important;
+		width: 10.625rem !important;
+		height: 16.875rem !important;
 
 		& .window-header {
 			& > * {
