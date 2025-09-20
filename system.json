@@ -112,7 +112,6 @@
 	},
 	"background": "systems/litm/assets/media/litm_splash.webp",
 	"url": "https://github.com/indigovshade/litm-wl",
-	"bugs": "https://github.com/indigovshade/litm-wl/issues?q=is:issue+is:open+sort:updated-desc",
 	"manifest": "https://raw.githubusercontent.com/indigovshade/litm-wl/main/system.json",
 	"download": "https://github.com/indigovshade/litm-wl/archive/refs/tags/v1.zip",
 	"readme": "https://github.com/indigovshade/litm-wl/blob/main/README.md"
