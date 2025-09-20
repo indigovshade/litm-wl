@@ -86,8 +86,8 @@ export class CharacterData extends foundry.abstract.TypeDataModel {
 		return {
 			label: "Litm.other.limit",
 			value:
-				6 - (this.statuses.sort((a, b) => b.value - a.value)[0]?.value || 0),
-			max: 6,
+				3 - (this.statuses.sort((a, b) => b.value - a.value)[0]?.value || 0),
+			max: 3,
 		};
 	}
 
